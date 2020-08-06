@@ -23,6 +23,7 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 ### 2.2 Papers
 ------------
 ### 2020
+* Yang et al, From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_paper.pdf)][[code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)]
 * Atoum et al, Color-wise Attention Network for Low-light Image Enhancement. [[paper](https://arxiv.org/pdf/1911.08681.pdf)][code]
 * Lv et al, Attention Guided Low-light Image Enhancement with a Large Scale Low-light Simulation Dataset. [[paper](https://arxiv.org/pdf/1908.00682.pdf)][code]
 * Guo et al, Zero-Reference Deep Curve Estimation for Low-Light Image Enhancement. [[paper](https://arxiv.org/pdf/2001.06826.pdf)][[code](https://github.com/Li-Chongyi/Zero-DCE)]
