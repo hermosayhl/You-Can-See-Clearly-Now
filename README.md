@@ -23,6 +23,7 @@ By [Xiang Chen](https://cxtalk.github.io/), Yufeng Li, Yufeng Huang
 ### 2.2 Papers
 ------------
 ### 2020
+* Meng et al, GIA-Net: Global Information Aware Network for Low-light Imaging. [[paper](http://xxx.itp.ac.cn/abs/2009.06604)][code]
 * Kwon et al, DALE : Dark Region-Aware Low-light Image Enhancement. [[paper](https://arxiv.org/abs/2008.12493)][code]
 * Yang et al, From Fidelity to Perceptual Quality: A Semi-Supervised Approach for Low-Light Image Enhancement. [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_From_Fidelity_to_Perceptual_Quality_A_Semi-Supervised_Approach_for_Low-Light_CVPR_2020_paper.pdf)][[code](https://github.com/flyywh/CVPR-2020-Semi-Low-Light)]
 * Atoum et al, Color-wise Attention Network for Low-light Image Enhancement. [[paper](https://arxiv.org/pdf/1911.08681.pdf)][code]
